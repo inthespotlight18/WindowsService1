@@ -1,0 +1,68 @@
+﻿Installing assembly 'C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logtoconsole = 
+   logfile = C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+   servicename = DZ_WinService
+Installing service DZ_WinService...
+Service DZ_WinService has been successfully installed.
+Creating EventLog source DZ_WinService in log Application...
+Committing assembly 'C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logtoconsole = 
+   logfile = C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Daniil Zlenko\Documents\C#\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+   servicename = DZ_WinService
+Installing assembly 'C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logtoconsole = 
+   logfile = C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+   servicename = DZ_WinService
+Installing service DZ_WinService...
+Creating EventLog source DZ_WinService in log Application...
+Rolling back assembly 'C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logtoconsole = 
+   logfile = C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+   servicename = DZ_WinService
+Restoring event log to previous state for source DZ_WinService.
+Installing assembly 'C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logtoconsole = 
+   logfile = C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+   servicename = DZ_WinService
+Installing service DZ_WinService...
+Creating EventLog source DZ_WinService in log Application...
+Rolling back assembly 'C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logtoconsole = 
+   logfile = C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+   servicename = DZ_WinService
+Restoring event log to previous state for source DZ_WinService.
+Installing assembly 'C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logtoconsole = 
+   logfile = C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+   servicename = DZ_WinServiceTest
+Installing service DZ_WinServiceTest...
+Service DZ_WinServiceTest has been successfully installed.
+Creating EventLog source DZ_WinServiceTest in log Application...
+Committing assembly 'C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logtoconsole = 
+   logfile = C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\Daniil Zlenko\Documents\C#\WindowsService1\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+   servicename = DZ_WinServiceTest
